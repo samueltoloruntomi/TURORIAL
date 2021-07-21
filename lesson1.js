@@ -27,4 +27,27 @@ var i2 = -b - h;
 var x1 = i1 / d;
 var x2 = i2 / d;
 
-console.log(x1, x2);
+// console.log(x1, x2);
+
+if (x1 > x2)
+{
+console.log(x1 + 20);
+}
+
+
+
+
+// var time = 0
+// if (time < 10) {
+//     k = 'good morning'; 
+//     console.log(k);
+//   } 
+  
+//   else if (time < 20) {
+//     console.log("Good day") ;
+//   } 
+  
+//   else {
+//     console.log("Good evening");
+//   }
+
